@@ -64,12 +64,14 @@ File [Click Here](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analys
 ## Loan Application Status
 #### • Calculated the percentage of approved, canceled, refused, and unused loan applications based on data from the previous application CSV file.
 #### • Visualized the distribution of loan application statuses using a pie chart.
-![download (1)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/c3b9e115-6d1b-4492-8b1c-0de15dce28fc)
+
+![download (7)](https://github.com/Saquibtechlotraining/Credit_EDA_Loan_Analysis/assets/91885135/355ff232-f7f9-46a0-817c-446cd3e5a7ab)
 
 ## Gender Distribution
 #### • Calculated the percentage of male and female loan applicants to understand the gender distribution among applicants.
 #### • Visualized the gender distribution using a pie chart.
-![download (2) (1)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/40f8d76f-cde9-482d-bc58-b929ef17d0a0)
+
+![download (8)](https://github.com/Saquibtechlotraining/Credit_EDA_Loan_Analysis/assets/91885135/5c8b55bd-65aa-4d61-86da-1bee3c19d21e)
 
 ## Income Range Analysis
 #### • Created an 'AMT_Income_Range' variable to categorize income ranges based on income levels.
@@ -79,23 +81,26 @@ File [Click Here](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analys
 #### • Analyzed the count of approved, refused, canceled, and unused loan offers for both male and female applicants.
 #### • Visualized the results to compare loan application statuses between genders.
 
-![download (6) (1)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/2d42fcb2-1540-4410-9fe5-6f9cb1660344)
+![download (9)](https://github.com/Saquibtechlotraining/Credit_EDA_Loan_Analysis/assets/91885135/7d32195a-1193-4b4d-95b4-4832487eef55)
+
 ## Count of Contract Types by Education
 #### • Counted the occurrences of each 'name_contract_type' within each 'name_education_type'.
 #### • Visualized the counts to understand the relationship between contract types and education.
-![download (5) (2)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/af22fcf9-e024-441b-8abb-24ab31639d3d)
 
-
+![download (10)](https://github.com/Saquibtechlotraining/Credit_EDA_Loan_Analysis/assets/91885135/6cde003f-e8c9-40f6-a6de-d684427c68c1)
 
 ## Credit Amount by Number of Children
 #### • Analyzed the credit amount for loan applicants based on the number of children they have.
 #### • Visualized the distribution of credit amounts for different numbers of children.
-![download (4) (1)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/0eaeead7-d106-446e-9925-844b207c7827)
+
+![download (11)](https://github.com/Saquibtechlotraining/Credit_EDA_Loan_Analysis/assets/91885135/f9ebbe8c-61a0-48f2-b34e-542df08c5b84)
+
 
 ## Income Distribution by Income Type
 #### • Analyzed the distribution of income based on income type.
 #### • Visualized the income distribution for different income sources.
-![download (3) (1)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/632142c3-2d89-42d9-bc43-4e22655099e2)
+
+![download (12)](https://github.com/Saquibtechlotraining/Credit_EDA_Loan_Analysis/assets/91885135/d625e7f7-260c-4331-81e9-62998912c134)
 
 ## Five key result of this project:-
 #### ① Risk Patterns Identification: The analysis successfully identified patterns in the data that indicate clients who may struggle to repay installments, enabling the lending institution to assess and manage credit risk effectively.
