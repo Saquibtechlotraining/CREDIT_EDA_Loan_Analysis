@@ -48,10 +48,10 @@ File [Click Here](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analys
 
 ## Import All Necessary Python libraries:-
 #### In this step, we import the required Python libraries such as :-
-##### ‣ Numpy          ![icons8-numpy-20](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/1a004217-9d23-4376-9af6-01438e766187)
-##### ‣ Pandas         ![icons8-pandas-20](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/f811ea01-608a-4c1e-8e7b-b249e0d67aa7)
-##### ‣ Matplotlib     ![matplotlib-tutorial (1)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/d1f0c134-4ca5-4b9e-a950-4729954e9154)
-##### ‣ Seaborn        ![fd110d80-63d1-11eb-9ae4-de7c23c9dedc (1)](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/assets/91885135/ad304a7c-1be0-4af5-9b50-a3079c829b3e)
+##### ‣ Numpy        
+##### ‣ Pandas         
+##### ‣ Matplotlib     
+##### ‣ Seaborn        
 
 ## Perform Data Cleaning and Preparations
 #### • Data cleaning is crucial for ensuring data quality. We remove columns containing more than 10% null values.
