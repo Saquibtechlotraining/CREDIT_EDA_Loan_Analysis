@@ -30,16 +30,21 @@
 
 ## Load the Data 
 ### Access and understand these dataset.
-#### • 'application_data.csv': Contains client information at loan application time, including payment difficulties.(https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/blob/main/application_data.part1.rar),
-(https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/blob/main/application_data.part2.rar)
+#### • 'application_data.csv': Contains client information at loan application time, including payment difficulties
+ File Part-1 [Click Here](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/blob/main/application_data.part1.rar)
+
+ File Part-2 [Click Here](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/blob/main/application_data.part2.rar)
 
 #### • 'previous_application.csv': Provides details of the client's previous loan data, indicating whether previous applications were approved, cancelled, refused, or unused.
-(https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/blob/main/previous_application.part01.rar)
-(https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/blob/main/previous_application.part02.rar),
-(https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/blob/main/previous_application.part03.rar)
+File Part-1 [Click Here](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/blob/main/previous_application.part01.rar)
+
+File Part-2 [Click Here](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/blob/main/previous_application.part02.rar)
+
+File Part-3 [Click Here](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/blob/main/previous_application.part03.rar)
 
 #### • 'columns_description.csv': A data dictionary explaining variable meanings and significance.
-(https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/blob/main/columns_description.csv)
+
+File [Click Here](https://github.com/Saquibtechlotraining/CREDIT_EDA_Loan_Analysis/blob/main/columns_description.csv)
 
 ## Import All Necessary Python libraries:-
 #### In this step, we import the required Python libraries such as :-
